@@ -12,3 +12,7 @@ Here is a run through of what this course will cover:
 - GraphQL Language: Types, Queries, Mutations, Scalars, Enums, Unions
 - How to use GraphQL in React (Apollo Client)
 - How to improve a GraphQL API and best practices.
+
+## 1. Introduction 
+
+- 
